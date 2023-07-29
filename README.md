@@ -1,7 +1,10 @@
-### Hi there 👋 I'm Alexandra, a frontend and UX engineer 🦄
+### Hi there 👋 I'm Alexandra, a frontend and UX engineer 🦄✨👩🏻‍🎨
 
-👩🏻‍💻 Currently diving into the world of Nextjs by rebuilding my [portfolio](https://github.com/alexandrastoica/portfolio). I'm exploring the new `appDir`, as well as playing with animation, hsl based color themes, and design system components.
+I am passionate about crafting purposeful products 💡
 
-I also create rich experiences, such as [CoreLayr](https://www.corelayr.io/), from ideation, design, all the way to code ✨👩🏻‍🎨
+With a background in Engineering and Human-Computer Interaction, I combine expertise in design systems, product thinking, and user-centred design to create accessible, reliable, and delightful user experiences.
 
-Find me on [Linkedin](https://linkedin.com/in/alexandrastoica).
+Currently building Coral 🪸. Previously, I worked with clients such as Google, Android Developers, Area 120, and Protocol Labs.
+
+- Visit my [website](https://alexandrastoica.vercel.app/).
+- Find me on [Linkedin](https://linkedin.com/in/alexandrastoica).
